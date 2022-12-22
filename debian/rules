@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+
+%:
+	dh $@ --with kf5,pkgkde_symbolshelper --buildsystem kf5 --without build_stamp
+
+override_dh_install:
+	dh_install
+	find $(CURDIR)/debian/oxygen-icon-theme -type d -print0 |xargs -0 rmdir --ignore-fail-on-non-empty
+	bash $(CURDIR)/debian/symlink_duplicates.sh $(CURDIR)/debian/oxygen-icon-theme $(CURDIR)/debian/oxygen-icon-theme/usr/share/icons

@@ -1,0 +1,1540 @@
+oxygen-icons5 (5:5.86.0-1) unstable; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.86.0).
+  * Bump Standards-Version to 4.6.0, no change required.
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 13 Sep 2021 11:04:16 +0900
+
+oxygen-icons5 (5:5.85.0-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Norbert Preining <norbert@preining.info>  Sat, 28 Aug 2021 23:42:49 +0900
+
+oxygen-icons5 (5:5.85.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.85.0).
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 16 Aug 2021 00:07:05 +0900
+
+oxygen-icons5 (5:5.83.0-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 16 Aug 2021 11:53:12 +0900
+
+oxygen-icons5 (5:5.83.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.83.0).
+
+ -- Norbert Preining <norbert@preining.info>  Sun, 13 Jun 2021 09:31:21 +0900
+
+oxygen-icons5 (5:5.82.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.82.0).
+  * Removed Eshat Cakar, Maximiliano Curia, Modestas Vainius from the
+    uploaders, thanks for your work on the package!
+  * Build with hardening=+all build hardening flag.
+
+ -- Norbert Preining <norbert@preining.info>  Sat, 08 May 2021 21:24:33 +0900
+
+oxygen-icons5 (5:5.81.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream version (5.81.0)
+  * Bump inter-frameworks dependencies.
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 12 Apr 2021 10:18:21 +0900
+
+oxygen-icons5 (5:5.80.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream version (5.80.0)
+  * Bump inter-frameworks dependencies.
+
+ -- Norbert Preining <norbert@preining.info>  Mon, 15 Mar 2021 15:10:36 +0900
+
+oxygen-icons5 (5:5.79.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.79.0).
+
+ -- Norbert Preining <norbert@preining.info>  Tue, 16 Feb 2021 06:45:30 +0900
+
+oxygen-icons5 (5:5.78.0-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Norbert Preining <norbert@preining.info>  Sun, 17 Jan 2021 12:02:26 +0900
+
+oxygen-icons5 (5:5.78.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * New upstream release (5.78.0).
+  * Update build-deps and deps with the info from cmake.
+
+ -- Norbert Preining <norbert@preining.info>  Wed, 13 Jan 2021 10:32:44 +0900
+
+oxygen-icons5 (5:5.77.0-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Norbert Preining <norbert@preining.info>  Tue, 22 Dec 2020 10:33:37 +0900
+
+oxygen-icons5 (5:5.77.0-1) experimental; urgency=medium
+
+  [ Norbert Preining ]
+  * Bump Standards-Version to 4.5.1 (No changes needed).
+  * New upstream release (5.77.0).
+  * Update build-deps and deps with the info from cmake.
+  * Add myself to Uploaders.
+  * Update maintainer to Debian Qt/KDE Maintainers.
+
+ -- Norbert Preining <norbert@preining.info>  Fri, 18 Dec 2020 10:03:56 +0900
+
+oxygen-icons5 (5:5.74.0-2) unstable; urgency=medium
+
+  * Team upload to unstable.
+
+ -- Sandro Knauß <hefee@debian.org>  Mon, 19 Oct 2020 23:14:15 +0200
+
+oxygen-icons5 (5:5.74.0-1) experimental; urgency=medium
+
+  * Team upload.
+
+  [ Sandro Knauß ]
+  * New upstream release (5.74.0).
+  * Update build-deps and deps with the info from cmake.
+  * Update Homepage link to point to new invent.kde.org
+  * Update repository related entries to metadata file.
+  * Update field Source in debian/copyright to invent.kde.org move.
+  * Add Bug-* entries to metadata file.
+
+ -- Sandro Knauß <hefee@debian.org>  Sun, 27 Sep 2020 17:44:45 +0200
+
+oxygen-icons5 (5:5.70.0-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Sandro Knauß ]
+  * Bump compat level to 13.
+  * New upstream release (5.70.0).
+  * Update build-deps and deps with the info from cmake.
+  * Trim trailing whitespace.
+  * Wrap long lines in changelog entries: 5.21.0-1.
+  * Set fields Upstream-Name, Upstream-Contact in debian/copyright.
+  * Remove obsolete fields Contact, Name from debian/upstream/metadata
+    (already present in machine-readable debian/copyright).
+
+ -- Sandro Knauß <hefee@debian.org>  Tue, 26 May 2020 23:56:07 +0200
+
+oxygen-icons5 (5:5.69.0-1) experimental; urgency=medium
+
+  * Team upload.
+
+  [ Sandro Knauß ]
+  * Bump compat level to 12.
+  * Bump Standards-Version to 4.5.0 (No changes needed).
+  * Add Rules-Requires-Root field to control.
+  * New upstream release (5.69.0).
+  * Update build-deps and deps with the info from cmake.
+  * Remove not needed injection of linker flags.
+
+ -- Sandro Knauß <hefee@debian.org>  Thu, 30 Apr 2020 00:56:25 +0200
+
+oxygen-icons5 (5:5.62.0-1) unstable; urgency=medium
+
+  * New upstream release (5.62.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 20 Sep 2019 10:13:17 -0700
+
+oxygen-icons5 (5:5.61.0-1) experimental; urgency=medium
+
+  * New upstream release (5.61.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 09 Sep 2019 21:09:50 +0100
+
+oxygen-icons5 (5:5.54.0-1) unstable; urgency=medium
+
+  * New upstream release (5.52.0).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.53.0).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.54.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Jan 2019 19:27:35 -0300
+
+oxygen-icons5 (5:5.51.0-1) unstable; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New revision
+  * New upstream release (5.50.0).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.51.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+  [ Helmut Grohne ]
+  * Mark oxygen-icon-theme Multi-Arch: foreign (Closes: 902707)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 07 Nov 2018 17:17:32 +0100
+
+oxygen-icons5 (5:5.49.0-1) unstable; urgency=medium
+
+  * New upstream release (5.48.0).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.49.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 17 Aug 2018 16:19:12 +0200
+
+oxygen-icons5 (5:5.47.0-1) unstable; urgency=medium
+
+  * New upstream release (5.47.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Jun 2018 12:10:56 +0200
+
+oxygen-icons5 (5:5.46.0-1) unstable; urgency=medium
+
+  * New upstream release (5.46.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.1.4.
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 May 2018 22:15:49 +0200
+
+oxygen-icons5 (5:5.45.0-1) unstable; urgency=medium
+
+  * New upstream release (5.45.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 05 May 2018 08:11:09 +0200
+
+oxygen-icons5 (5:5.44.0-1) sid; urgency=medium
+
+  * New upstream release (5.44.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 21 Mar 2018 14:41:30 +0100
+
+oxygen-icons5 (5:5.43.0-1) experimental; urgency=medium
+
+  * Use the salsa canonical urls
+  * New upstream release (5.43.0).
+  * Update build-deps and deps with the info from cmake
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 26 Feb 2018 11:44:20 +0100
+
+oxygen-icons5 (5:5.42.0-2) sid; urgency=medium
+
+  * New revision
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 10 Feb 2018 11:29:22 +0100
+
+oxygen-icons5 (5:5.42.0-1) experimental; urgency=medium
+
+  * New upstream release (5.42.0).
+  * Add link options as-needed
+  * Bump debhelper build-dep and compat to 11.
+  * Build without build_stamp
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.1.3.
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 02 Feb 2018 12:06:11 +0100
+
+oxygen-icons5 (5:5.41.0-1) experimental; urgency=medium
+
+  * Update build-deps and deps with the info from cmake
+  * Update uploaders list as requested by MIA team (Closes: #879417)
+  * New upstream release (5.41.0).
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Dec 2017 10:43:21 -0300
+
+oxygen-icons5 (5:5.37.0-2) sid; urgency=medium
+
+  * New revision
+  * Bump Standards-Version to 4.1.0.
+  * Update upstream metadata
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 03 Sep 2017 09:59:07 +0200
+
+oxygen-icons5 (5:5.37.0-1) experimental; urgency=medium
+
+  * New upstream release (5.37.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.0.1.
+  * wrap-and-sort
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Aug 2017 10:42:28 +0200
+
+oxygen-icons5 (5:5.36.0-1) experimental; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.35.0).
+  * Bump Standards-Version to 4.0.0.
+  * Update build-deps and deps with the info from cmake
+  * watch: Use https uris
+  * New upstream release (5.36.0).
+  * Update build-deps and deps with the info from cmake
+
+  [ Raymond Wooninck ]
+  * Add signing key
+  * also include signing-key
+
+  [ Philip Muškovac ]
+  * Switch to kf5 based pkg tools
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 09 Jul 2017 23:41:30 +0200
+
+oxygen-icons5 (5:5.28.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.28)
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Nov 2016 16:03:06 +0100
+
+oxygen-icons5 (5:5.27.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.27)
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 15 Oct 2016 16:57:56 +0200
+
+oxygen-icons5 (5:5.26.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Pino Toscano ]
+  * Drop transitional oxygen5-icon-theme package.
+  * Remove useless breeze-icon-theme breaks in oxygen-icon-theme.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 11:57:39 +0200
+
+oxygen-icons5 (5:5.25.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:18:10 +0200
+
+oxygen-icons5 (5:5.24.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+  * Bump extra-cmake-modules build dependency to 5.24.0~.
+  * Add 5 as epoch, so the binaries can take over older binaries from
+    src:oxygen-icons.
+  * Rename oxygen5-icon-theme back to oxygen-icon-theme, since it is the name
+    of the icon theme:
+    - add proper breaks/replaces
+    - add oxygen5-icon-theme as transitional package
+  * Change the local installation from debian/tmp to debian/oxygen-icon-theme,
+    so there is no need to copy files later with dh_install.
+    - remove oxygen-icon-theme.install, no more used now
+  * Remove symlinking of some icons to the hicolor icon theme: other than not
+    working currently, it does not make sense for an icon theme to place stuff
+    outside its own directory.
+  * Re-enable duplicates cleanup, but using the dh override that dhmk
+    understand.
+  * Update lintian overrides.
+
+ -- Pino Toscano <pino@debian.org>  Sun, 31 Jul 2016 17:57:11 +0200
+
+oxygen-icons5 (5.23.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 08:25:45 +0200
+
+oxygen-icons5 (5.22.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 May 2016 23:44:17 +0200
+
+oxygen-icons5 (5.21.0-1) experimental; urgency=medium
+
+  [ Rohan Garg ]
+  * Fix target in debian/rules since the dh_install commands
+    are arch independent.
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
+
+  [ Maximiliano Curia ]
+  * uscan no longer supports more than one main upstream tarball being listed
+  * New upstream release moves conflicting x-mail-distribution.png file to
+    base/x-mail-distribution.png (Closes: #820447) Thanks to Andreas Beckmann
+    for reporting.
+  * New upstream release moves conflicting x-mail-distribution.png file to
+    base/x-mail-distribution.png (Closes: #820447)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 05 May 2016 15:31:30 +0200
+
+oxygen-icons5 (5.19.0-1) experimental; urgency=medium
+
+  * New upstream release (5.19.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 15:16:36 +0100
+
+oxygen-icons5 (5.18.0-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Package renamed upstream.
+  * New upstream release (5.18.0).
+
+  [ Philip Muškovac ]
+
+  * New upstream release, for kf5
+  * Port watch file to new download location
+  * Build-depend on extra-cmake-modules, qtbase5-dev
+  * Rename the binary to oxygen5-icon-theme and break/replace/provide
+    oxygen-icon-theme
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 13:34:32 +0100
+
+oxygen-icons (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * New upstream release
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:38:06 +0200
+
+oxygen-icons (4:14.12.3-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 13:38:13 -0700
+
+oxygen-icons (4:14.12.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+  * Remove unstable from watch file, uscan fails with
+    remote site does not even have current version
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 08:07:27 -0800
+
+oxygen-icons (4:14.12.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 15:53:00 +0100
+
+oxygen-icons (4:14.11.97-0ubuntu1) vivid; urgency=medium
+
+  * New upstream RC release
+  * Remove rule for fixing x-office-document.png, fixed upstream instead
+  * Merge with Debian, remaining changes:
+    - In debian/rules override_dh_install: copy systray icons to
+      hicolour, solves loading icons on Gnome
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 01 Dec 2014 18:03:52 +0100
+
+oxygen-icons (4:4.14.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Fix x-office-document.png in 22x22. (Closes: #677675)
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 19 Aug 2014 21:51:07 +0200
+
+oxygen-icons (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 06:37:27 -0700
+
+oxygen-icons (4:4.14.1-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Mon, 22 Sep 2014 17:54:33 +0200
+
+oxygen-icons (4:4.14.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Fix x-office-document.png in 22x22. (Closes: #677675)
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 19 Aug 2014 21:51:07 +0200
+
+oxygen-icons (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 13:39:42 +0200
+
+oxygen-icons (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 17:30:20 +0200
+
+oxygen-icons (4:4.13.95-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 30 Jul 2014 18:54:48 +0200
+
+oxygen-icons (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 24 Jul 2014 23:42:01 +0200
+
+oxygen-icons (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+  * Merge with debian git, remaining changes:
+    - In debian/rules override_dh_install: copy systray icons to
+      hicolour, solves loading icons on Gnome
+  * drop transitional oxygen-icon-theme-complete after LTS
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Jun 2014 10:42:03 +0100
+
+oxygen-icons (4:4.12.4-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:24:44 +0200
+
+oxygen-icons (4:4.12.3-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Mar 2014 00:06:49 +0100
+
+oxygen-icons (4:4.12.2-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:32:20 +0100
+
+oxygen-icons (4:4.11.5-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.5, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 26 Jan 2014 20:36:47 +0100
+
+oxygen-icons (4:4.11.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:18:57 +0100
+
+oxygen-icons (4:4.11.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 04 Oct 2013 21:31:16 +0200
+
+oxygen-icons (4:4.10.5-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 12 Jul 2013 15:35:31 +0200
+
+oxygen-icons (4:4.10.4-1) experimental; urgency=low
+
+  * New upstream release.
+  * Bump debhelper build-dep and compat to 9.
+  * Update vcs fields.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 09:22:04 +0200
+
+oxygen-icons (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream release.
+  * Team upload.
+
+  [ Maximiliano Curia ]
+  * Bump Standards-Version to 3.9.4, no further changes.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 05 Apr 2013 14:18:22 +0200
+
+oxygen-icons (4:4.8.4-1) unstable; urgency=low
+
+  * New upstream release.
+  * Team upload.
+
+  [ Eshat Cakar ]
+  * Add watch file.
+  * Bump Standards-Version to 3.9.3, no further changes.
+
+ -- Modestas Vainius <modax@debian.org>  Sat, 09 Jun 2012 15:52:18 +0300
+
+oxygen-icons (4:4.13.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 22:27:09 +0100
+
+oxygen-icons (4:4.12.97-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Wed, 02 Apr 2014 11:54:43 +0200
+
+oxygen-icons (4:4.12.95-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 23 Mar 2014 12:54:34 +0100
+
+oxygen-icons (4:4.12.90-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 12:01:25 +0000
+
+oxygen-icons (4:4.12.4-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Apr 2014 12:24:44 +0200
+
+oxygen-icons (4:4.12.3-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Mar 2014 00:06:49 +0100
+
+oxygen-icons (4:4.12.3-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Mar 2014 21:15:20 +0100
+
+oxygen-icons (4:4.12.2-1) experimental; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 10 Feb 2014 11:32:20 +0100
+
+oxygen-icons (4:4.12.2-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 05 Feb 2014 00:30:17 +0000
+
+oxygen-icons (4:4.12.1-0ubuntu1) trusty; urgency=low
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 16 Jan 2014 08:43:12 +0000
+
+oxygen-icons (4:4.12.0a-0ubuntu1) trusty; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Dec 2013 17:44:47 +0000
+
+oxygen-icons (4:4.11.97-0ubuntu1) trusty; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 29 Nov 2013 13:41:59 +0000
+
+oxygen-icons (4:4.11.95-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 25 Nov 2013 18:38:37 +0100
+
+oxygen-icons (4:4.11.80-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 17:59:30 +0100
+
+oxygen-icons (4:4.11.5-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.5, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 26 Jan 2014 20:36:47 +0100
+
+oxygen-icons (4:4.11.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:18:57 +0100
+
+oxygen-icons (4:4.11.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 04 Oct 2013 21:31:16 +0200
+
+oxygen-icons (4:4.11.2-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 30 Sep 2013 14:53:57 +0100
+
+oxygen-icons (4:4.11.1-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 06 Sep 2013 22:40:40 +0100
+
+oxygen-icons (4:4.11.0-0ubuntu1) saucy; urgency=low
+
+  [ Howard Chan ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Aug 2013 00:41:50 +0100
+
+oxygen-icons (4:4.10.97-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC 2 release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 26 Jul 2013 20:04:55 +0100
+
+oxygen-icons (4:4.10.95-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 19 Jul 2013 12:33:31 +0000
+
+oxygen-icons (4:4.10.90-0ubuntu1) saucy; urgency=low
+
+  * New upstream bet release
+
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 18:31:44 +0100
+
+oxygen-icons (4:4.10.80-0ubuntu1) saucy; urgency=low
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+  [ Rohan Garg ]
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 21 Jun 2013 01:51:08 +0100
+
+oxygen-icons (4:4.10.5-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 12 Jul 2013 15:35:31 +0200
+
+oxygen-icons (4:4.10.4-1) experimental; urgency=low
+
+  * New upstream release.
+  * Bump debhelper build-dep and compat to 9.
+  * Update vcs fields.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 14 Jun 2013 09:22:04 +0200
+
+oxygen-icons (4:4.10.3+dfsg-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 03 Jun 2013 16:20:34 +0000
+
+oxygen-icons (4:4.10.3+dfsg-0ubuntu0.1~ubuntu13.04) raring-proposed; urgency=low
+
+  * New upstream bugfix release (LP: #1176358)
+    - don't symlink plasmagik.png to hicolor as that's already shipped in
+      plasmate-data
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sat, 04 May 2013 20:28:06 +0200
+
+oxygen-icons (4:4.10.2+dfsg-0ubuntu1) raring-proposed; urgency=low
+
+  * Repackage to remove Skype™ icons. (LP: #1163504)
+
+ -- Dmitrijs Ledkovs <dmitrij.ledkov@ubuntu.com>  Wed, 24 Apr 2013 17:33:40 +0100
+
+oxygen-icons (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream release.
+  * Team upload.
+
+  [ Maximiliano Curia ]
+  * Bump Standards-Version to 3.9.4, no further changes.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 05 Apr 2013 14:18:22 +0200
+
+oxygen-icons (4:4.10.2-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream bugfix release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 31 Mar 2013 15:01:44 +0200
+
+oxygen-icons (4:4.10.1-0ubuntu1) raring-proposed-proposed; urgency=low
+
+  * New upstream bugfix release
+  * Move oxygen-icon-theme-complete transitional package to oldlibs/extra to
+    make lintian happy
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 05 Mar 2013 16:50:04 +0000
+
+oxygen-icons (4:4.10.0-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 06 Feb 2013 12:18:33 +0000
+
+oxygen-icons (4:4.9.98-0ubuntu1) raring-proposed-proposed; urgency=low
+
+  * New upstream release candidate
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 18 Jan 2013 16:25:54 +0000
+
+oxygen-icons (4:4.9.97-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Thu, 03 Jan 2013 22:47:18 +0100
+
+oxygen-icons (4:4.9.95-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Dec 2012 23:45:19 +0000
+
+oxygen-icons (4:4.9.90-0ubuntu1) raring-proposed-proposed; urgency=low
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 18:15:45 +0000
+
+oxygen-icons (4:4.9.80-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 19 Nov 2012 16:18:36 +0000
+
+oxygen-icons (4:4.9.3-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release (LP: #1074747)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 06 Nov 2012 22:48:09 +0100
+
+oxygen-icons (4:4.9.2-0ubuntu1) quantal-proposed; urgency=low
+
+  * New upstream bugfix release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 02 Oct 2012 15:41:00 +0100
+
+oxygen-icons (4:4.9.1-0ubuntu1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Tue, 04 Sep 2012 15:26:53 +0530
+
+oxygen-icons (4:4.9.0-0ubuntu1) quantal; urgency=low
+
+  * Use direct build-depends versions rather than kde-sc-dev-latest
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 26 Jul 2012 22:44:42 +0100
+
+oxygen-icons (4:4.8.90-0ubuntu1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Sun, 10 Jun 2012 23:29:50 +0200
+
+oxygen-icons (4:4.8.80-0ubuntu1) quantal; urgency=low
+
+  * Merge with debian git, remaining changes:
+    - add oxygen-icon-theme-complete package (now a transitional package)
+    - oxygen-icon-theme breaks/replaces oxygen-icon-theme-complete << 4:4.8.80
+    - In debian/rules override_dh_install: copy systray icons to
+      hicolour, solves loading icons on Gnome
+
+  * New upstream beta release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Mon, 21 May 2012 00:38:59 +0200
+
+oxygen-icons (4:4.8.4-1) unstable; urgency=low
+
+  * New upstream release.
+  * Team upload.
+
+  [ Eshat Cakar ]
+  * Add watch file.
+  * Bump Standards-Version to 3.9.3, no further changes.
+
+ -- Modestas Vainius <modax@debian.org>  Sat, 09 Jun 2012 15:52:18 +0300
+
+oxygen-icons (4:4.8.3-1) experimental; urgency=low
+
+  * New upstream release.
+  * Team upload.
+
+ -- Modestas Vainius <modax@debian.org>  Sat, 26 May 2012 17:58:30 +0300
+
+oxygen-icons (4:4.8.3-0ubuntu1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 13 May 2012 15:52:58 +0200
+
+oxygen-icons (4:4.8.3-0r1) raring-proposed; urgency=low
+
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 06 Jan 2012 16:54:19 +0100
+
+oxygen-icons (4:4.8.2-0ubuntu1) precise; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 30 Mar 2012 15:35:32 +0200
+
+oxygen-icons (4:4.8.1-0ubuntu1) precise; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sat, 03 Mar 2012 00:18:46 +0100
+
+oxygen-icons (4:4.8.0-0ubuntu1) precise; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 19 Jan 2012 11:10:00 +0000
+
+oxygen-icons (4:4.7.97-0ubuntu1) precise; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 04 Jan 2012 13:20:24 +0000
+
+oxygen-icons (4:4.7.95-0ubuntu1) precise; urgency=low
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 23 Dec 2011 20:26:48 +0100
+
+oxygen-icons (4:4.7.90-0ubuntu1) precise; urgency=low
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 13 Dec 2011 11:53:27 +0000
+
+oxygen-icons (4:4.7.4-2) unstable; urgency=low
+
+  * Team upload. Upload to unsable.
+  * Update uploaders, remove Armin.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Tue, 06 Mar 2012 11:54:52 +0100
+
+oxygen-icons (4:4.7.4-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:39:39 +0100
+
+oxygen-icons (4:4.7.3-0ubuntu1) precise; urgency=low
+
+  * New upstream release
+  * Merge from Debian Git. Remaining changes:
+   - In debian/rules override_dh_install: copy systray icons to
+     hicolour, solves loading icons on Gnome
+   - Add oxygen-icon-theme-complete package, update .install files to
+     split icons
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 18:45:20 +0000
+
+oxygen-icons (4:4.7.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+  [ José Manuel Santamaría Lema ]
+  * Add myself to Uploaders.
+
+  [ Eshat Cakar ]
+  * Add myself to Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:07 -0300
+
+oxygen-icons (4:4.7.2-0r0) raring-proposed; urgency=low
+
+  * New upstream release.
+
+  [ José Manuel Santamaría Lema ]
+  * Add myself to Uploaders.
+
+  [ Eshat Cakar ]
+  * Add myself to Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 04 Oct 2011 23:21:04 +0200
+
+oxygen-icons (4:4.7.2-0ubuntu1) raring-proposed; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 02 Oct 2011 19:35:35 +0200
+
+oxygen-icons (4:4.7.1-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 02 Sep 2011 20:13:11 +0200
+
+oxygen-icons (4:4.7.0-0ubuntu1) oneiric; urgency=low
+
+  * New upstrem release
+  * Fix Vcs links for new branch location
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 22 Jul 2011 21:14:43 +0200
+
+oxygen-icons (4:4.6.90-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 25 Jun 2011 14:35:00 +0200
+
+oxygen-icons (4:4.6.2-2ubuntu1) oneiric; urgency=low
+
+  [ Philip Muškovac ]
+  * Merge from Debian unstable. Remaining changes:
+   - In debian/rules override_dh_install: copy systray icons to
+     hicolour, solves loading icons on Gnome
+   - Add oxygen-icon-theme-complete package, update .install files to
+     split icons
+  * Update Vcs links as the branch is owned by kubuntu-packagers now
+
+  [ Felix Geyer ]
+  * Fix lintian warning extended-description-line-too-long.
+  * Symlink duplicate files in oxygen-icon-theme-complete. Previously this was
+    only done in oxygen-icon-theme.
+  * Create symlinks instead of copying files to the hicolor theme.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 03 Jun 2011 01:37:31 +0200
+
+oxygen-icons (4:4.6.2-2) unstable; urgency=low
+
+  * Release to unstable.
+
+ -- Modestas Vainius <modax@debian.org>  Thu, 26 May 2011 00:42:41 +0300
+
+oxygen-icons (4:4.6.2-1) experimental; urgency=low
+
+  * New upstream release:
+    - fixes wrong 16x16 "zoom to page" icon (Closes: #557512)
+
+  [ Modestas Vainius ]
+  * Point debian/control Vcs fields to the new Git repository.
+  * Drop dummy kde-icons-oxygen package and remove pre-squeeze Replaces/Breaks.
+  * Bump Standards-Version to 3.9.2: no changes needed.
+  * Switch debian/rules engine to dhmk based qt-kde-team/2/*.
+
+  [ Pino Toscano ]
+  * Depend on hicolor-icon-theme, as Oyxgen inherits it.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 27 Apr 2011 12:23:46 +0300
+
+oxygen-icons (4:4.6.2-0ubuntu1) natty; urgency=low
+
+  * New upstream release
+
+ -- Tarun Kumar Mall <c2tarun@gmail.com>  Tue, 05 Apr 2011 01:49:47 +0000
+
+oxygen-icons (4:4.6.1-0ubuntu1) natty; urgency=low
+
+  * New upstream release
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sat, 26 Feb 2011 14:13:31 +0100
+
+oxygen-icons (4:4.6.0-0ubuntu1) natty; urgency=low
+
+  * New upstream release
+
+ -- Philip Muskovac <yofel@gmx.net>  Fri, 21 Jan 2011 17:16:33 +0100
+
+oxygen-icons (4:4.5.95-0ubuntu1) natty; urgency=low
+
+  * New upstream release candidate
+
+ -- Philip Muskovac <yofel@gmx.net>  Wed, 05 Jan 2011 14:57:31 +0100
+
+oxygen-icons (4:4.5.90-0ubuntu1) natty; urgency=low
+
+  * New upstream release candidate
+
+ -- Scott Kitterman <scott@kitterman.com>  Wed, 22 Dec 2010 12:42:28 -0500
+
+oxygen-icons (4:4.5.85-0ubuntu1) natty; urgency=low
+
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 06 Dec 2010 22:24:36 +0000
+
+oxygen-icons (4:4.5.80-0ubuntu1) natty; urgency=low
+
+  * New upstream beta release
+
+ -- Scott Kitterman <scott@kitterman.com>  Wed, 24 Nov 2010 14:06:11 +0000
+
+oxygen-icons (4:4.5.3-0ubuntu1) natty; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 04 Nov 2010 15:26:07 +0000
+
+oxygen-icons (4:4.5.2-0ubuntu1) natty; urgency=low
+
+  * New upstream release
+  * Merge with Debian, remaining changes:
+   - In debian/rules override_dh_install: copy systray icons to
+     hicolour, solves loading icons on Gnome
+   - Add oxygen-icon-theme-complete package, update .install files to
+     split icons
+   - Drop kde-icons-oxygen transitional package
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 05 Oct 2010 14:44:15 +0000
+
+oxygen-icons (4:4.5.1-0r1) raring-proposed; urgency=low
+
+  * New upstream release.
+
+  [ Modestas Vainius ]
+  * Point debian/control Vcs fields to the new Git repository.
+
+  [ Pino Toscano ]
+  * Depend on hicolor-icon-theme, as Oyxgen inherits it.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 28 Aug 2010 21:49:54 +0300
+
+oxygen-icons (4:4.4.5-1) unstable; urgency=low
+
+  [ Modestas Vainius ]
+  * New upstream release.
+
+  [ Sune Vuorela ]
+  * Update email address
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 18 Jul 2010 14:48:53 +0200
+
+oxygen-icons (4:4.4.4-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 01 Jun 2010 01:43:24 +0300
+
+oxygen-icons (4:4.5.2-0ubuntu1) maverick; urgency=low
+
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 05 Oct 2010 14:44:31 +0000
+
+oxygen-icons (4:4.5.1-0ubuntu1) maverick; urgency=low
+
+  * New upstream release.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Mon, 30 Aug 2010 19:21:10 +0200
+
+oxygen-icons (4:4.5.0b-0ubuntu1) maverick; urgency=low
+
+  * New tar from upstream
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 04 Aug 2010 23:20:07 +0100
+
+oxygen-icons (4:4.5.0-0ubuntu1) maverick; urgency=low
+
+  * New upstream release
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Thu, 29 Jul 2010 14:41:00 +0200
+
+oxygen-icons (4:4.4.92-0ubuntu1) maverick; urgency=low
+
+  * New upstream rc release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Thu, 08 Jul 2010 03:38:02 +0200
+
+oxygen-icons (4:4.4.90-0ubuntu1) maverick; urgency=low
+
+  * New upstream rc release
+
+ -- Rohan Garg <rohan16garg@gmail.com>  Sat, 26 Jun 2010 02:04:56 +0530
+
+oxygen-icons (4:4.4.85-0ubuntu1) maverick; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Mon, 07 Jun 2010 20:17:39 +0200
+
+oxygen-icons (4:4.4.80-0ubuntu1) maverick; urgency=low
+
+  * New upstream beta release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Mon, 24 May 2010 00:57:33 +0200
+
+oxygen-icons (4:4.4.5-1) unstable; urgency=low
+
+  [ Modestas Vainius ]
+  * New upstream release.
+
+  [ Sune Vuorela ]
+  * Update email address
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 18 Jul 2010 14:48:53 +0200
+
+oxygen-icons (4:4.4.4-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 01 Jun 2010 01:43:24 +0300
+
+oxygen-icons (4:4.4.3-1ubuntu1) maverick; urgency=low
+
+  * Merge with Debian unstable remaining changes:
+    - Add pkg-kde-tools to build-depends
+    - Add rules to install oxygen-icon-theme
+    - Add oxygen-icon-theme-complete package
+    - Drop kde-icons-oxygen transitional package
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Mon, 24 May 2010 00:50:15 +0200
+
+oxygen-icons (4:4.4.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+  [ Modestas Vainius ]
+  * Release KDE SC 4.4.3 to unstable.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 01 May 2010 23:37:58 +0300
+
+oxygen-icons (4:4.4.3-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 30 Apr 2010 14:41:42 +0100
+
+oxygen-icons (4:4.4.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+  [ Eckhart Wörner ]
+  * Use cmake support in debhelper 7.3+, get rid of cdbs dependency
+  * Symlink duplicate icon files to save disk space. (Closes: #531004)
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 08 Apr 2010 11:55:47 +0300
+
+oxygen-icons (4:4.4.2-0ubuntu2) lucid; urgency=low
+
+  * Add Replaces: klipper (<< 4:3.5.10-0ubuntu1) to oxygen-icon-theme for
+    upgrades from Hardy that have both Ubuntu and Kubuntu installed
+
+ -- Scott Kitterman <scott@kitterman.com>  Fri, 09 Apr 2010 01:24:41 -0400
+
+oxygen-icons (4:4.4.2-1) experimental; urgency=low
+
+  * New upstream release.
+
+  [ Eckhart Wörner ]
+  * Use cmake support in debhelper 7.3+, get rid of cdbs dependency
+  * Symlink duplicate icon files to save disk space. (Closes: #531004)
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 08 Apr 2010 11:55:47 +0300
+
+oxygen-icons (4:4.4.2-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Sat, 27 Mar 2010 14:28:30 +0100
+
+oxygen-icons (4:4.4.1-1) experimental; urgency=low
+
+  * New usptream release.
+
+  [ Modestas Vainius ]
+  * Change my email address to modax@debian.org in Uploaders field.
+  * Fix Vcs-Browser URL.
+  * Bump Standards-Version to 3.8.4: no changes needed.
+  * Switch to source package format to 3.0 (quilt).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 04 Mar 2010 03:18:02 +0200
+
+oxygen-icons (4:4.4.1-0ubuntu3) lucid; urgency=low
+
+  * Copy more icons to hicolour, needed for more systray icons
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 23 Mar 2010 10:53:00 +0000
+
+oxygen-icons (4:4.4.1-0ubuntu2) lucid; urgency=low
+
+  * In debian/rules copy nepomuk to hicolor, solves icon not loading on
+    Gnome
+  * Add missing oxygen-icon-theme-complete.install file
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Mar 2010 13:14:55 +0000
+
+oxygen-icons (4:4.4.1-1) experimental; urgency=low
+
+  * New usptream release.
+
+  [ Modestas Vainius ]
+  * Change my email address to modax@debian.org in Uploaders field.
+  * Fix Vcs-Browser URL.
+  * Bump Standards-Version to 3.8.4: no changes needed.
+  * Switch to source package format to 3.0 (quilt).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 04 Mar 2010 03:18:02 +0200
+
+oxygen-icons (4:4.4.1-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Fri, 26 Feb 2010 23:40:04 +0100
+
+oxygen-icons (4:4.4.0-0ubuntu3) lucid; urgency=low
+
+  * Add build-dep on pkg-kde-tools
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Feb 2010 13:16:35 +0000
+
+oxygen-icons (4:4.4.0-0ubuntu2) lucid; urgency=low
+
+  * Split out 256x256 icons into new package, allows to save space
+    on CD if we have to
+  * Use lzma compression
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Feb 2010 12:01:59 +0000
+
+oxygen-icons (4:4.4.0-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 04 Feb 2010 22:23:23 +0000
+
+oxygen-icons (4:4.3.98-0ubuntu1) lucid; urgency=low
+
+  * New upstream RC release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Tue, 02 Feb 2010 19:44:28 +0100
+
+oxygen-icons (4:4.3.95-0ubuntu1) lucid; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Jan 2010 12:39:26 +0000
+
+oxygen-icons (4:4.3.90-0ubuntu1) lucid; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 06 Jan 2010 19:02:03 +0000
+
+oxygen-icons (4:4.3.85-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 18 Dec 2009 13:33:11 +0000
+
+oxygen-icons (4:4.3.80-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Wed, 02 Dec 2009 04:43:52 +0100
+
+oxygen-icons (4:4.3.4-1) unstable; urgency=low
+
+  * New upstream release.
+
+  +++ Changes by Ana Beatriz Guerrero Lopez:
+
+  * Remove myself from Uploaders.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 09 Dec 2009 00:24:14 +0200
+
+oxygen-icons (4:4.3.3-0ubuntu1) lucid; urgency=low
+
+  * New upstream release
+  * Merge with Debian Testing remaining changes:
+    - Bump conflict to 4:4.3.3 for kde-icons-oxygen, which has been renamed by
+      Debian to oxygen-icons-theme since our last merge
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Wed, 11 Nov 2009 04:07:34 +0100
+
+oxygen-icons (4:4.3.2-1) unstable; urgency=low
+
+  * New upstream release.
+
+  +++ Changes by Fathi Boudra:
+
+  * Add kmail (<< 4:4.3.2) to Replaces field: some kmail icons are shipped by
+    oxygen-icons now.
+
+ -- Ana Beatriz Guerrero Lopez <ana@debian.org>  Thu, 15 Oct 2009 17:36:05 +0200
+
+oxygen-icons (4:4.3.2-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+    - Replaces kmail (<< 4:4.3.2)
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Fri, 02 Oct 2009 22:34:56 +0200
+
+oxygen-icons (4:4.3.1-1) unstable; urgency=low
+
+  * New upstream release.
+
+  +++ Changes by Fathi Boudra:
+
+  * Bump Standards-Version to 3.8.3 (no changes needed).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 30 Aug 2009 12:45:59 +0200
+
+oxygen-icons (4:4.3.1-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Fri, 28 Aug 2009 19:38:01 +0200
+
+oxygen-icons (4:4.3.0-1) unstable; urgency=low
+
+  * New upstream release.
+
+  +++ Changes by Modestas Vainius:
+
+  * oxygen-icon-theme replaces step (<< 4:4.3.0).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 04 Aug 2009 09:22:16 +0200
+
+oxygen-icons (4:4.3.0-0ubuntu3) karmic; urgency=low
+
+  * Fix step replaces, LP: #409357
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 05 Aug 2009 14:48:16 +0000
+
+oxygen-icons (4:4.3.0-0ubuntu2) karmic; urgency=low
+
+  * Replaces old step
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 04 Aug 2009 22:45:22 +0000
+
+oxygen-icons (4:4.2.96-1) experimental; urgency=low
+
+  * Initial release as standalone package. The icons have formerly been a part
+    of kdebase-runtime.
+
+  +++ Changes by Armin Berres:
+
+  * Oxygen-icons break older kdebase-runtime. Add respective Breaks.
+  * Provide transitional package
+
+ -- Debian Qt/KDE Maintainers <fabo@debian.org>  Fri, 17 Jul 2009 10:59:28 +0200
+
+oxygen-icons (4:4.3.0-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 29 Jul 2009 19:25:08 +0100
+
+oxygen-icons (4:4.2.98-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+    - Drop quilt from build-deps
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Wed, 22 Jul 2009 03:55:03 +0200
+
+oxygen-icons (4:4.2.96-1) experimental; urgency=low
+
+  * New upstream release.
+
+ -- Fathi Boudra <fabo@debian.org>  Fri, 17 Jul 2009 10:59:28 +0200
+
+oxygen-icons (4:4.2.96-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Fri, 10 Jul 2009 14:13:15 +0200
+
+oxygen-icons (4:4.2.95-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+
+ -- Alessandro Ghersi <alessandro-ghersi@kubuntu.org>  Thu, 25 Jun 2009 06:23:04 +0200
+
+oxygen-icons (4:4.2.95-2) experimental; urgency=low
+
+  * Oxygen-icons break older kdebase-runtime. Add respective Breaks.
+
+ -- Armin Berres <armin+debian@space-based.de>  Sun, 12 Jul 2009 22:39:34 +0200
+
+oxygen-icons (4:4.2.95-1) experimental; urgency=low
+
+  * Initial release as standalone package. The icons have formerly been a part
+    of kdebase-runtime.
+  * Provide transitional package
+
+ -- Armin Berres <armin+debian@space-based.de>  Sun, 17 May 2009 21:03:20 -0400
+
+oxygen-icons (4:4.2.90-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+    - bump in replaces libkdepim4 to 4:4.2.85
+
+ -- Alessandro Ghersi <alessandro.ghersi@fastwebnet.it>  Thu, 04 Jun 2009 00:46:45 +0200
+
+oxygen-icons (4:4.2.85-0ubuntu2) karmic; urgency=low
+
+  * Add build-depends on cmake
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 09 May 2009 22:49:30 +0000
+
+oxygen-icons (4:4.2.85-0ubuntu1) karmic; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 08 May 2009 15:08:58 +0000
+
+oxygen-icons (4:4.2.71.svn961800-0ubuntu1) karmic; urgency=low
+
+  * Initial package, moved by upstream out of kdebase-runtime
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 01 May 2009 21:24:53 +0000
+
+oxygen-icons (4:4.2.96-1) experimental; urgency=low
+
+  * Initial release as standalone package. The icons have formerly been a part
+    of kdebase-runtime.
+
+  +++ Changes by Armin Berres:
+
+  * Oxygen-icons break older kdebase-runtime. Add respective Breaks.
+  * Provide transitional package
+
+ -- Debian Qt/KDE Maintainers <fabo@debian.org>  Fri, 17 Jul 2009 10:59:28 +0200
