@@ -7,12 +7,12 @@ Uploaders: Aurélien COUDERC <coucouf@debian.org>,
            Sune Vuorela <sune@debian.org>,
 Build-Depends: cmake (>= 3.16~),
                debhelper-compat (= 13),
-               extra-cmake-modules (>= 5.90.0~),
+               extra-cmake-modules (>= 5.103.0~),
                fdupes,
                imagemagick,
                pkg-kde-tools (>= 0.14),
                qtbase5-dev (>= 5.15.2~),
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Homepage: https://invent.kde.org/frameworks/oxygen-icons5
 Vcs-Browser: https://salsa.debian.org/qt-kde-team/kde/oxygen-icons5
 Vcs-Git: https://salsa.debian.org/qt-kde-team/kde/oxygen-icons5.git
@@ -21,9 +21,9 @@ Rules-Requires-Root: no
 Package: oxygen-icon-theme
 Architecture: all
 Multi-Arch: foreign
-Depends: hicolor-icon-theme, ${misc:Depends}
-Breaks: fdpowermon-icons
-Replaces: fdpowermon-icons
+Depends: hicolor-icon-theme, ${misc:Depends},
+Breaks: fdpowermon-icons,
+Replaces: fdpowermon-icons,
 Description: Oxygen icon theme
  Oxygen is the standard icon theme for KDE 4, but follows the freedesktop.org
  icon schemes, so it can be used in other desktop environments using this
